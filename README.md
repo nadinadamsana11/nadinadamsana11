@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Nadina Damsana! 👋
 
-<!--
-**nadinadamsana11/nadinadamsana11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Enthusiastic Web Developer & Creative Thinker
+I am a passionate **Freelance Web Developer** dedicated to building modern, responsive, and user-centric web experiences. I love turning complex problems into simple, beautiful, and intuitive designs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm working on
+- 🌍 My main portfolio is live at [https://nadinadamsana11.github.io/my-portfolio/](https://nadinadamsana11.github.io/my-portfolio/)
+- 🛠️ Currently honing my skills in **JavaScript** and modern CSS frameworks.
+- 🌱 I’m currently learning more about **UI/UX Design principles**.
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Design:** Canva, Figma (Learning)
+- **Tools:** VS Code, Git, GitHub, Netlify
+
+### 📊 GitHub Stats
+![Nadina's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadinadamsana11&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadinadamsana11&layout=compact&theme=radical)
+
+---
+
+### 📫 How to reach me
+- **LinkedIn:** [Insert your LinkedIn Link here]
+- **Email:** [Insert your Email here]
+- **Portfolio:** [Check out my work!](https://nadinadamsana11.github.io/my-portfolio/)
+
+---
+*"The best way to predict the future is to create it."*
