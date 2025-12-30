@@ -23,8 +23,7 @@ I am a passionate **Freelance Web Developer** dedicated to building modern, resp
 ---
 
 ### 📫 How to reach me
-- **LinkedIn:** [Insert your LinkedIn Link here]
-- **Email:** [Insert your Email here]
+- **LinkedIn:** https://www.linkedin.com/in/nadinadamsana
 - **Portfolio:** [Check out my work!](https://nadinadamsana11.github.io/my-portfolio/)
 
 ---
