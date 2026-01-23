@@ -11,20 +11,38 @@ I am a passionate **Freelance Web Developer** dedicated to building modern, resp
 - 🌱 I’m currently learning more about **UI/UX Design principles**.
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Design:** Canva, Figma (Learning)
-- **Tools:** VS Code, Git, GitHub, Netlify
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-### 📊 GitHub Stats
-![Nadina's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadinadamsana11&show_icons=true&theme=dark)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadinadamsana11&layout=compact&theme=dark)
+### 📊 GitHub Analysis
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadinadamsana11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadinadamsana11&layout=compact&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nadinadamsana11&theme=tokyonight" />
+</p>
 
 ---
 
 ### 📫 How to reach me
-- **LinkedIn:** https://www.linkedin.com/in/nadinadamsana
+- **LinkedIn:** [in/nadinadamsana](https://www.linkedin.com/in/nadinadamsana)
 - **Portfolio:** [Check out my work!](https://nadinadamsana11.github.io/my-portfolio/)
 
 ---
-*"The best way to predict the future is to create it."*
+<p align="center">
+  <i>"The best way to predict the future is to create it."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nadinadamsana11&label=Profile%20views&color=0e75b6&style=flat" alt="nadinadamsana11" />
+</p>
