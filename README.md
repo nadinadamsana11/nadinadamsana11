@@ -6,7 +6,7 @@ I am a passionate **Freelance Web Developer** dedicated to building modern, resp
 ---
 
 ### 🚀 What I'm working on
-- 🌍 My main portfolio is live at [https://nadinadamsana11.github.io/my-portfolio/](https://nadinadamsana11.github.io/my-portfolio/)
+- 🌍 My main portfolio is live at [https://nadinadamsana.com.lk](https://nadinadamsana.com.lk)
 - 🛠️ Currently honing my skills in **JavaScript** and modern CSS frameworks.
 - 🌱 I’m currently learning more about **UI/UX Design principles**.
 
@@ -15,7 +15,6 @@ I am a passionate **Freelance Web Developer** dedicated to building modern, resp
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
@@ -36,7 +35,7 @@ I am a passionate **Freelance Web Developer** dedicated to building modern, resp
 
 ### 📫 How to reach me
 - **LinkedIn:** [in/nadinadamsana](https://www.linkedin.com/in/nadinadamsana)
-- **Portfolio:** [Check out my work!](https://nadinadamsana11.github.io/my-portfolio/)
+- **Portfolio:** [Check out my work!](https://nadinadamsana.com.lk)
 
 ---
 <p align="center">
