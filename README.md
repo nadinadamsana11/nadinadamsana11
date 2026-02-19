@@ -27,7 +27,7 @@ I am a passionate **Freelance Web Developer** dedicated to building modern, resp
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,threejs,firebase,vscode,git,github,vite,netlify,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,threejs,firebase,vscode,git,github,vite,netlify,flutter" />
   </a>
   <br>
   <img src="https://img.shields.io/badge/AI_&_Gemini-Robot-blue?style=for-the-badge&logo=chatbot&logoColor=white" />
